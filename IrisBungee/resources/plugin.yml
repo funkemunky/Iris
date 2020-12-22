@@ -1,0 +1,5 @@
+name: IrisBungee
+main: cc.funkemunky.bungee.IrisBungee
+author: funkemunky
+depend: [Iris, Atlas]
+version: 1.0

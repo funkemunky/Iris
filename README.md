@@ -1,7 +1,7 @@
 # Iris Anticheat
 
 ### Why this is being released
-Because the current developer have not reached an agreement going forward for compensation, I decided to open source Iris Anticheat. 
+Because the current developer and I have not reached an agreement going forward for compensation, I decided to open source Iris Anticheat. 
 
 ### Can I use this?
 If you want to use it for your own non-commercial purposes, 
